@@ -84,4 +84,4 @@ The model responds in structured JSON, which the frontend renders into a formatt
 - **Frontend:** React 18, Vite
 - **Backend:** Node.js, Express
 - **AI:** Anthropic Claude Sonnet 4 (`claude-sonnet-4-20250514`)
-- **Security:** API key stored server-side only, never exposed to the client
+- **Security:** API key stored server-side only, never expose the API key to the client
